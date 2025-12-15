@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jozias
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jozias-m.gthub.io
+  * I am jozias (https://keybase.io/jozias) on keybase.
+  * I have a public key ASDMGy88WIH2wNv6W-ADXZmXX7F9gskGoaX5wl39NyR8hAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010182019e95e4cf6555cb0eddf37872136726392cb7ccfdc2ae0154a04cf0e097dd0a",
+      "host": "keybase.io",
+      "kid": "0120cc1b2f3c5881f6c0dbfa5be0035d99975fb17d82c906a1a5f9c25dfd37247c840a",
+      "uid": "e244135ea0e0266278d1ed2bf7b58619",
+      "username": "jozias"
+    },
+    "merkle_root": {
+      "ctime": 1765776037,
+      "hash": "456dd589c4491e539e48b3e4eb56f7eb39f7d54e7dc1ae48982ba022ffba2039f2c6a07d03e45d2d1fa7217372ff84d77fd4c05fd8ac6f29a070ebfe941b03cb",
+      "hash_meta": "6b10a0e2d991f2987e5cdf49762e01ced382597c83d5e4b6ae7b4b495bf94f21",
+      "seqno": 27291523
+    },
+    "service": {
+      "entropy": "ZGeK8Xei12O2/wPErc5ZAbDl",
+      "hostname": "jozias-m.gthub.io",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.1"
+  },
+  "ctime": 1765776115,
+  "expire_in": 504576000,
+  "prev": "f9cc6685009072ab70008acd880d8ed420aa00c79d19db70e31ef00d606f3002",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzBsvPFiB9sDb+lvgA12Zl1+xfYLJBqGl+cJd/TckfIQKp3BheWxvYWTESpcCCMQg+cxmhQCQcqtwAIrNiA2O1CCqAMedGdtw4x7wDWBvMALEILjTvO9vxNF8UOG9O9cPKFnoALNkkqTPAoYFM9CBGx6gAgHCo3NpZ8RApXAh0lm5jOzFyDwymfHGTeQ9XY3ZxiwZuNNw7/OEkOFP2/fuw5xz0vJNwTWGD5EJvt2uZbCK/rGrDLXe2nVyCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDJcVCJ7g9uobbRY61M4vuCk5vQ00UbBjoFteFZ+c91jo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jozias
+
+==================================================================
